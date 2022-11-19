@@ -233,7 +233,7 @@ print("Function Loaded")
 ![](images/image10.png)
 
 
-## Faster-RCNN Feature Pyramid Network Resnet-50 (1000 epoch)
+## Faster-RCNN Feature Pyramid Network Mobile Net V3 (1000 epoch)
 
 
 ![](images/image11.png)
