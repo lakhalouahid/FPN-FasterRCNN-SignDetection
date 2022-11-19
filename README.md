@@ -2,6 +2,6 @@
 
 ## Dataset German Traffic Sign Detection Benchmark
 
-[Sign Detection Dataset](./SignDetection.png)
+![SignDetectionDataset](./SignDetection.png "Sign Detection Dataset")
 
 [GTSDB - German Traffic Sign Detection Benchmark - Kaggle](https://www.kaggle.com/datasets/safabouguezzi/german-traffic-sign-detection-benchmark-gtsdb)
